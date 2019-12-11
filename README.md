@@ -1,3 +1,2 @@
 # hello_world
-is test
-test2
+冰哥的墙纸
